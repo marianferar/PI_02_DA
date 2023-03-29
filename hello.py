@@ -1,6 +1,6 @@
 import streamlit as st 
 
-st.image('.images/logo iol.png')
+st.image('images/logo iol.png')
 st.title('Invirtiendo en acciones 💰')
 
 st.markdown(''' 

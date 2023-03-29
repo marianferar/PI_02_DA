@@ -7,14 +7,14 @@ st.markdown('''En función de lo analizado, y considerando la importancia
 de __D I V E R S I F I C A R__ inversiones, te recomendamos
 las siguientes empresas:''')
 
-st.image('images\cartera tech recomendada.png')
+st.image('images/cartera tech recomendada.png')
 st.markdown('''👆 Este es un ejemplo de cartera si invirtieras 
 en empresas del sector tecnología. ''')
 
 st.markdown('''_¿Y si inviertas en otro rubro?_''')  
 
 
-st.image('images\cartera diversif recomendada.png')
+st.image('images/cartera diversif recomendada.png')
 st.markdown(''' 👆 Esta podría ser tu tenencia actual si invirtieras
 en rubro tecnología y energía.  
   

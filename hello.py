@@ -38,4 +38,4 @@ por lo que __no se puede predecir el resultado futuro__*.
 de renta variable (cambia constantemente de cotización y no puede saberse
 su precio final) y recomendado para objetivos a largo plazo (más de 5 años)*''')
 
-st.image('.images/investment-3247252_1280.jpg')
+st.image('images/investment-3247252_1280.jpg')
